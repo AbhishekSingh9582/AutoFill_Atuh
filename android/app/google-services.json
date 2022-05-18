@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "833491736199",
+    "project_id": "autofillauth",
+    "storage_bucket": "autofillauth.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:833491736199:android:bf1046b839750a54474a22",
+        "android_client_info": {
+          "package_name": "com.example.autofill_auth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "833491736199-12ohb02ohnpnbqhlgr4ot77sb43bst6i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDFzMK2nSn20-0gsrkNYHnwLATob1Pts_4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "833491736199-12ohb02ohnpnbqhlgr4ot77sb43bst6i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
